@@ -1,0 +1,3 @@
+python run_template_adv0.py
+python run_search_adv0.py
+python run_template_search_adv0.py
