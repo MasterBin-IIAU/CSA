@@ -38,7 +38,9 @@ python Unified_GOT10K_process.py
 Download **siamrpn_r50_l234_dwxcorr** and **siamrpn_r50_l234_dwxcorr_otb**  
 Put them under pysot/experiments/<MODEL_NAME>
 2. Perturbation Generators  
-To be uploaded...
+Download checkpoints you need, then put them under checkpoints/<MODEL_NAME>/  
+([Google Drive](https://drive.google.com/open?id=117GuYBQpj8Sq4yUNj7MRdyNciTCkpzXL),
+[Baidu](https://pan.baidu.com/s/1rlpzCWczWf6Hw5YnnQThOw)[Extraction code: 98rb])
 #### Set some paths
 **Step1**: Add pix2pix and pysot to environment variables   
 ```
