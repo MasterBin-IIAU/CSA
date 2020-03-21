@@ -6,6 +6,15 @@ The official implementation for CVPR2020 Paper Cooling-Shrinking Attack: Blindin
   <p>Demos for Cooling-Shrinking Attack.</p>
 </div>
 
+Please cite our work as follows, if you find it helpful to your research. :)
+```
+@inproceedings{CSA-CVPR2020,
+author = {Bin Yan and Dong Wang and Huchuan Lu and Xiaoyun Yang},
+title = {{Cooling-Shrinking Attack: Blinding} the Tracker with Imperceptible Noises},
+booktitle = {CVPR},
+year = {2020}
+}
+```
 ## Installation
 This code has been tested on the following environment:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NVIDIA RTX-2080Ti  
