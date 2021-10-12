@@ -1,5 +1,5 @@
 numpy==1.17.3
-opencv-python==4.0.0.21
+opencv-python==4.2.0.32
 PyYAML==5.1
 yacs==0.1.6
 tqdm==4.31.1
