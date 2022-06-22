@@ -1,4 +1,4 @@
-numpy==1.17.3
+numpy==1.22.0
 opencv-python==4.0.0.21
 PyYAML==5.1
 yacs==0.1.6
